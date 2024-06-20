@@ -1,4 +1,5 @@
 ![Ss](screenshots/home.png)
+![Ss](screenshots/iplookup.png)
 
 # URL Shortener with IP Lookup Feature
 
